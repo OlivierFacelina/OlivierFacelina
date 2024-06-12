@@ -17,7 +17,8 @@
 
 ### CMS
 
-![Wordpress](https://img.shields.io/wordpress/plugin/required-php/:slug)
+![Wordpress](https://img.shields.io/badge/Wordpress-black?style=for-the-badge&logo=wordpress)
+
 
 ### Tools
 
