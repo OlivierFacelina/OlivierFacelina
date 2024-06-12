@@ -14,7 +14,7 @@
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Sass](https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=react)
+![Sass](https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass)
 
 ### CMS
 
@@ -28,8 +28,8 @@
 
 
 <div align="center">
-[![github-stats-dark](https://github-readme-stats.vercel.app/api?username=OlivierFacelina&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![github-stats-light](https://github-readme-stats.vercel.app/api?username=OlivierFacelina&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+  [![github-stats-dark](https://github-readme-stats.vercel.app/api?username=paco-pastor&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+  [![github-stats-light](https://github-readme-stats.vercel.app/api?username=paco-pastor&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 </div>
 
 <div align="center">
