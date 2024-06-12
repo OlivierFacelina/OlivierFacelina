@@ -20,6 +20,7 @@
 ### CMS
 
 ![Wordpress](https://img.shields.io/badge/Wordpress-black?style=for-the-badge&logo=wordpress)
+![Prestashop](https://img.shields.io/badge/Prestashop-black?style=for-the-badge&logo=prestashop)
 
 
 ### Tools
