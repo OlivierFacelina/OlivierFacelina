@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![Node JS](https://img.shields.io/badge/Node_JS-black?style=for-the-badge&logo=node.js)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
-![PHP](https://img.shields.io/badge/PHP-black)
+![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)
 
 ### Front-end
 
