@@ -28,7 +28,7 @@
 
 
 <div align="center">
-![OlivierFacelina's Stats](https://github-readme-stats.vercel.app/api?username=OlivierFacelina&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![OlivierFacelina's Stats](https://github-readme-stats.vercel.app/api?username=OlivierFacelina&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&cache_bust=1)
 </div>
 
 <div align="center">
