@@ -28,9 +28,8 @@
 
 
 <div align="center">
-  <!-- [![github-stats-dark](https://github-readme-stats.vercel.app/api?username=paco-pastor&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-  [![github-stats-light](https://github-readme-stats.vercel.app/api?username=paco-pastor&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) -->
-[![OlivierFacelina's Stats](https://github-readme-stats.vercel.app/api?username=OlivierFacelina&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![github-stats-dark](https://github-readme-stats.vercel.app/api?username=OlivierFacelina&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![github-stats-light](https://github-readme-stats.vercel.app/api?username=OlivierFacelina&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 </div>
 
 <div align="center">
