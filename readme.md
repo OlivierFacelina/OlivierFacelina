@@ -34,11 +34,11 @@
 
   [![github-stats-dark](https://github-readme-stats.vercel.app/api?username=OlivierFacelina&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
   [![github-stats-light](https://github-readme-stats.vercel.app/api?username=OlivierFacelina&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-  ![OlivierFacelina's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OlivierFacelina&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 </div>
 
 <div align="center">
 
+  ![OlivierFacelina's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OlivierFacelina&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 </div>
