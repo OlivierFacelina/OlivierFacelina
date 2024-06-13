@@ -19,8 +19,9 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)
 ![vueJS](https://img.shields.io/badge/Vue_JS-black?style=for-the-badge&logo=vuejs)
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![Sass](https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![SinonJS](https://img.shields.io/badge/Sinon_JS-black?style=for-the-badge&logo=sinonjs)
 
 ### CMS
 
