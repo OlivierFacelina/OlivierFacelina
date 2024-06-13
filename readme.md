@@ -22,6 +22,7 @@
 ![Sass](https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![SinonJS](https://img.shields.io/badge/Sinon_JS-black?style=for-the-badge&logo=sinonjs)
+![ChartJS](https://img.shields.io/badge/ChartJS-black?style=for-the-badge&logo=chartjs)
 
 ### CMS
 
