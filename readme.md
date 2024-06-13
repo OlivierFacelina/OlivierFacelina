@@ -38,6 +38,7 @@
 [![Gitmoji](https://img.shields.io/badge/😜_Gitmoji-black?style=for-the-badge)](https://gitmoji.dev)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu)
+![CircleCI](https://img.shields.io/badge/CircleCI-black?style=for-the-badge&logo=circleci)
 
 
 <div align="center">
