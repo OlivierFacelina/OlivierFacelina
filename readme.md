@@ -34,9 +34,9 @@
 ### Design UI/UX
 
 ![AdobeXD](https://img.shields.io/badge/AdobeXD-black?style=for-the-badge&logo=adobexd)
-![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-black?style=for-the-badge&logo=adobe_illustrator)
-![Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=photoshop)
-![InDesign](https://img.shields.io/badge/InDesign-black?style=for-the-badge&logo=indesign)
+![Illustrator](https://img.shields.io/badge/AdobeIllustrator-black?style=for-the-badge&logo=adobeillustrator)
+![Photoshop](https://img.shields.io/badge/AdobePhotoshop-black?style=for-the-badge&logo=adobephotoshop)
+![InDesign](https://img.shields.io/badge/AdobeInDesign-black?style=for-the-badge&logo=adobeindesign)
 ![Adobe After Effects](https://img.shields.io/badge/AdobeAfterEffects-black?style=for-the-badge&logo=adobeaftereffects)
 ![CapCut](https://img.shields.io/badge/CapCut-black?style=for-the-badge&logo=capcut)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
