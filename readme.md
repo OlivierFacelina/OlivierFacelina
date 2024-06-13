@@ -54,6 +54,7 @@
 ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-black?style=for-the-badge&logo=visualstudiocode)
 ![VisualStudioCommunity](https://img.shields.io/badge/VisualStudioCommunity-black?style=for-the-badge&logo=visualstudiocommunity)
 ![Eclipse](https://img.shields.io/badge/Eclipse-black?style=for-the-badge&logo=eclipse)
+![StackOverflow](https://img.shields.io/badge/StackOverflow-black?style=for-the-badge&logo=stackoverflow)
 
 
 <div align="center">
