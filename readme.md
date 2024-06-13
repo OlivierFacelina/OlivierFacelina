@@ -39,6 +39,7 @@
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu)
 ![CircleCI](https://img.shields.io/badge/CircleCI-black?style=for-the-badge&logo=circleci)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
 
 
 <div align="center">
