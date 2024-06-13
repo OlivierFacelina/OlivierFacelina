@@ -28,6 +28,8 @@
 ![Wordpress](https://img.shields.io/badge/Wordpress-black?style=for-the-badge&logo=wordpress)
 ![Prestashop](https://img.shields.io/badge/Prestashop-black?style=for-the-badge&logo=prestashop)
 ![Elementor](https://img.shields.io/badge/Elementor-black?style=for-the-badge&logo=elementor)
+![Divi](https://img.shields.io/badge/Divi-black?style=for-the-badge&logo=divi)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-black?style=for-the-badge&logo=woocommerce)
 
 
 ### Tools
