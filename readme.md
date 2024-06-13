@@ -8,7 +8,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
 ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
 ![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony)
-![C#](https://img.shields.io/badge/C#-black?style=for-the-badge&logo=csharp)
+![C#](https://img.shields.io/badge/CSharp-black?style=for-the-badge&logo=csharp)
 ![Node JS](https://img.shields.io/badge/Node_JS-black?style=for-the-badge&logo=node.js)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
 
