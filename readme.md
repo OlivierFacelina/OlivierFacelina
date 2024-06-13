@@ -36,6 +36,7 @@
 
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 [![Gitmoji](https://img.shields.io/badge/😜_Gitmoji-black?style=for-the-badge)](https://gitmoji.dev)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 
 
 <div align="center">
