@@ -31,6 +31,17 @@
 ![Divi](https://img.shields.io/badge/Divi-black?style=for-the-badge&logo=divi)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-black?style=for-the-badge&logo=woocommerce)
 
+### Design UI/UX
+
+![AdobeXD](https://img.shields.io/badge/AdobeXD-black?style=for-the-badge&logo=adobexd)
+![Illustrator](https://img.shields.io/badge/Illustrator-black?style=for-the-badge&logo=illustrator)
+![Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=photoshop)
+![InDesign](https://img.shields.io/badge/InDesign-black?style=for-the-badge&logo=indesign)
+![AfterEffects](https://img.shields.io/badge/AfterEffects-black?style=for-the-badge&logo=aftereffects)
+![CapCut](https://img.shields.io/badge/CapCut-black?style=for-the-badge&logo=capcut)
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
+
+
 
 ### Tools
 
