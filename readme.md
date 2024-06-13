@@ -37,7 +37,7 @@
 ![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-black?style=for-the-badge&logo=adobe_illustrator)
 ![Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=photoshop)
 ![InDesign](https://img.shields.io/badge/InDesign-black?style=for-the-badge&logo=indesign)
-![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-black?style=for-the-badge&logo=adobe_after_effects)
+![Adobe After Effects](https://img.shields.io/badge/AdobeAfterEffects-black?style=for-the-badge&logo=adobeaftereffects)
 ![CapCut](https://img.shields.io/badge/CapCut-black?style=for-the-badge&logo=capcut)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
 
